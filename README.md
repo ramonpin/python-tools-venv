@@ -25,7 +25,7 @@ This repo contains the requirments to boostrap our python-tools virtual environm
 You should have installed:
 
   * python3 (3.5/3.6)
-  * virtualenv.py
+  * [virtualenv.py](https://virtualenv.pypa.io/en/stable/installation/)
 
 # Installation
 
