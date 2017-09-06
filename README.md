@@ -12,6 +12,10 @@ This repo contains the requirments to boostrap our python-tools virtual environm
 * httpie
 * watchdog
 * beancout
+* asciinema
+
+## Languages
+* coconut
 
 ## Libs
 
