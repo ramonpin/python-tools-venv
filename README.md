@@ -29,7 +29,14 @@ This repo contains the requirments to boostrap our python-tools virtual environm
 
 You should have installed:
 
-  * python3 (3.5/3.6)
+  * python 3.6
+
+    ```bash
+    $> sudo add-apt-repository ppa:jonathonf/python-3.6
+    $> sudo apt-get update
+    $> sudo apt-get install python3.6
+    ```
+
   * [virtualenv.py](https://virtualenv.pypa.io/en/stable/installation/)
 
 # Installation
