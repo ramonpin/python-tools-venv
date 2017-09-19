@@ -24,6 +24,9 @@ This repo contains the requirments to boostrap our python-tools virtual environm
 * GitPython
 * xlrd
 * SQLAlchemy
+* paramiko
+* flask
+* jmespath
 
 # Requirements
 
