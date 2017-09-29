@@ -88,6 +88,7 @@ Pygments==2.2.0
 PyMySQL==0.7.11
 PyNaCl==1.1.2
 pyparsing==2.2.0
+pysolr==3.6.0
 python-dateutil==2.6.1
 python-magic==0.4.13
 python-slugify==1.2.4
@@ -103,6 +104,7 @@ six==1.10.0
 smmap2==2.0.3
 SQLAlchemy==1.1.13
 sqlparse==0.2.3
+sshuttle==0.78.3
 terminado==0.6
 terminaltables==3.1.0
 testpath==0.3.1
