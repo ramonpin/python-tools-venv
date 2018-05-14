@@ -49,7 +49,7 @@ After clonning this repo you need to create the environment with:
 ```bash
 $> cd to/this/repo/dir
 $> mkdir ~/virtualenvs
-$> virtualenv.py --python=python3 ~/virtualenvs/tools
+$> virtualenv.py --python=python3.6 ~/virtualenvs/tools
 $> source ~/virtualenvs/tools/bin/activate
 $> pip install -r requirements.txt
 ```
