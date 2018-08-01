@@ -32,12 +32,20 @@ This repo contains the requirments to boostrap our python-tools virtual environm
 
 You should have installed:
 
+  * Dependencies
+
+  ```bash
+    $> sudo apt-get install build-essential checkinstall
+    $> sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+    $> sudo apt-get install libsasl2-dev libldap2-dev
+  ```
+
   * python 3.6
 
     ```bash
     $> sudo add-apt-repository ppa:jonathonf/python-3.6
     $> sudo apt-get update
-    $> sudo apt-get install python3.6
+    $> sudo apt-get install python3.6 python3.6-dev
     ```
 
   * [virtualenv.py](https://virtualenv.pypa.io/en/stable/installation/)
