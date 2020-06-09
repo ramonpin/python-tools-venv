@@ -119,7 +119,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 neovim==0.3.1
 ngrid==0.1.0
-notebook==5.7.0
+notebook==5.7.8
 numpy==1.15.3
 objgraph==3.4.0
 openpyxl==2.5.9
