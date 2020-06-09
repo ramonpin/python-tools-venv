@@ -249,7 +249,7 @@ python-xlib==0.20
 pytimeparse==1.1.8
 PyTrie==0.2
 pytz==2018.7
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==5.1
 pyzmq==17.1.2
 qrcode==6.0
