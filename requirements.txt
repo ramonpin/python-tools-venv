@@ -3,7 +3,7 @@ agate-dbf==0.2.0
 agate-excel==0.2.2
 agate-sql==0.5.3
 alabaster==0.7.12
-ansible==2.4.0.0
+ansible==2.6.18
 argh==0.26.2
 asciinema==2.0.1
 asn1crypto==0.24.0
