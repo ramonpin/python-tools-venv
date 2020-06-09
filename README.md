@@ -32,23 +32,13 @@ This repo contains the requirments to boostrap our python-tools virtual environm
 
 You should have installed:
 
-  * Dependencies
+  * Dependencies (Linux Mint 19)
 
   ```bash
-    $> sudo apt-get install build-essential checkinstall
+    $> sudo apt-get install build-essential checkinstall python3 python3-pip python3-venv
     $> sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
     $> sudo apt-get install libsasl2-dev libldap2-dev
   ```
-
-  * python 3.6
-
-    ```bash
-    $> sudo add-apt-repository ppa:jonathonf/python-3.6
-    $> sudo apt-get update
-    $> sudo apt-get install python3.6 python3.6-dev
-    ```
-
-  * [virtualenv.py](https://virtualenv.pypa.io/en/stable/installation/)
 
 # Installation
 
@@ -57,8 +47,9 @@ After clonning this repo you need to create the environment with:
 ```bash
 $> cd to/this/repo/dir
 $> mkdir ~/virtualenvs
-$> virtualenv.py --python=python3.6 ~/virtualenvs/tools
+$> python3 -m venv ~/virtualenvs/tools
 $> source ~/virtualenvs/tools/bin/activate
+$> pip install -U pip wheel setuptools pex
 $> pip install -r requirements.txt
 ```
 
