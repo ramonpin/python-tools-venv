@@ -25,7 +25,7 @@ beautifulsoup4==4.6.3
 bleach==3.1.4
 blessings==1.7
 blinker==1.4
-bottle==0.12.13
+bottle==0.12.19
 bpython==0.18
 Brlapi==0.6.6
 CacheControl==0.12.6
