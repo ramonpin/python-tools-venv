@@ -3,7 +3,7 @@ agate-dbf==0.2.0
 agate-excel==0.2.2
 agate-sql==0.5.3
 alabaster==0.7.12
-ansible==2.6.18
+ansible==2.9.20
 apt-clone==0.2.1
 apt-xapian-index==0.47
 apturl==0.5.2
