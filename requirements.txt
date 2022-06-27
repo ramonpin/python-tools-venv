@@ -256,7 +256,7 @@ qrcode==6.0
 qtconsole==4.4.2
 ranger-fm==1.9.2
 readchar==2.0.1
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.20.0
 requests-toolbelt==0.8.0
 requests-unixsocket==0.1.5
