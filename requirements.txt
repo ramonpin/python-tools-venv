@@ -146,7 +146,7 @@ mccabe==0.6.1
 mechanize==0.4.3
 meld==3.18.0
 menulibre==2.2.1
-mistune==0.8.4
+mistune==2.0.3
 mkdocs==1.0.4
 mkdocs-material==3.0.6
 MonthDelta==0.9.1
